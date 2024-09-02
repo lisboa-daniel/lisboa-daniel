@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Lisboa</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [kolib](https://github.com/lisboa-daniel)
+- 🔭 I’m currently working on [kolib](https://github.com/lisboa-daniel/kolib)
 
 - 🌱 I’m currently learning **React with Next JS**
 
